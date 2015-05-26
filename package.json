@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/david-ford/AngularDemo/issues"
   },
-  "homepage": "https://github.com/david-ford/AngularDemo#readme"
+  "homepage": "https://github.com/david-ford/AngularDemo#readme",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.10.0"
+  }
 }
