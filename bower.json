@@ -1,0 +1,18 @@
+{
+  "name": "AngularDemo",
+  "version": "0.0.0",
+  "authors": [
+    "davidford <david.ford@improvingenterprises.com>"
+  ],
+  "description": "Angular Practice Project",
+  "private": false,
+  "dependencies": {
+    "jquery": "*",
+    "toastr": "*",
+    "angular": "*",
+    "angular-resource": "*",
+    "angular-route": "*",
+    "bootstrap": "*",
+    "angular-mocks": "*"
+  }
+}

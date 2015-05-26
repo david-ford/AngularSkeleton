@@ -1,0 +1,38 @@
+{
+  "name": "AngularDemo",
+  "version": "0.0.0",
+  "description": "Angular Practice Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.9.x"
+  },
+  "author": "David Ford",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "jade": "*",
+    "express": "*",
+    "stylus": "*",
+    "mongoose": "*",
+    "passport-local": "*",
+    "passport": "*"
+  },
+  "devDependencies": {
+    "karma-mocha": "*",
+    "mocha": "*",
+    "karma-chai-plugins": "*",
+    "karma-firefox-launcher": "*",
+    "karma-chrome-launcher": "*",
+    "karma-script-launcher": "*",
+    "karma-html2js-preprocessor": "*",
+    "karma-jasmine": "*",
+    "requirejs": "*",
+    "karma-requirejs": "*",
+    "karma-coffee-preprocessor": "*",
+    "karma-phantomjs-launcher": "*",
+    "karma": "*"
+  }
+}
