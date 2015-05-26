@@ -1,0 +1,10 @@
+{
+  "name": "AngularDemo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/david-ford/AngularDemo",
+  "authors": [
+    "david-ford <poster55@gmail.com>"
+  ],
+  "description": "Practice angular application using MEAN stack",
+  "license": "MIT"
+}
