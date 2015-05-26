@@ -6,5 +6,12 @@
     "david-ford <poster55@gmail.com>"
   ],
   "description": "Practice angular application using MEAN stack",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.1",
+    "angular": "~1.3.15",
+    "angular-resource": "~1.3.15",
+    "angular-route": "~1.3.15"
+  }
 }
